@@ -1,1 +1,1 @@
-lorem ipsum
+console.log("hello pasha");
